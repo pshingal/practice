@@ -1,8 +1,7 @@
 #include<stdio.h>
 int mul(int a,int b)
 {
-        printf("in bugfix branch pratik");
-	printf("new bug created byPRatik");
+   	printf("this changes is done by bugfix bracnh");
         return a*b;
 
 }
