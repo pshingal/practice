@@ -15,6 +15,7 @@ printf("sub=%d \n",sub(a,b));
 printf("mul=%d \n",mul(a,b));
 printf("div=%d \n",div(a,b));
 
+printf("changes is in bugfix");
 
 }
  
